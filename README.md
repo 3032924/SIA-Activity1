@@ -1,9 +1,9 @@
 # SIA-Activity1
 This repository is for students enrolled in Sport Informatics and Analytics to complete Activity 1. It contains the following csv files: 
 
-* nba_players.csv : consists of player statistics for the 2017-2018 NBA (Basketball)
+* nba_players.csv : consists of player statistics for the 2017-2018 NBA (Basketball) and has been sourced from https://www.basketball-reference.com
 
-* soccer_players.csv 
+* soccer_players.csv : consists of player skill levels for various aspects of match performance, and has been sourced from the 'SportsAnalytics' package in R. 
 
 You will be using **nba_players.csv** for the first section in this activity, and **soccer_players.csv** for the second section. 
 
