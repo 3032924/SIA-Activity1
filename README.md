@@ -5,7 +5,8 @@ This repository is for students enrolled in Sport Informatics and Analytics to c
 
 * soccer_players.csv 
 
-You will be using **nba_players.csv** for the first section in this activity, and you will be using **soccer_players.csv** for the second section. 
+You will be using **nba_players.csv** for the first section in this activity, and **soccer_players.csv** for the second section. 
+
 
 ## Variable Descriptions ##
 
@@ -29,8 +30,11 @@ You will be using **nba_players.csv** for the first section in this activity, an
 You will only need to pay attention to the following variables: 
 
 Column 5. Position : Player position
+
 Column 29. ShotAccuracy : level of accuracy when taking shots
+
 Column 30. ShotPower : level of power when taking shots
+
 Column 31. ShotTechnique: level of technique when taking shots
 
 
